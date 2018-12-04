@@ -102,3 +102,12 @@ web:
 ```
 $ ecs-cli compose --file aws-compose.yml up
 ```
+
+
+### Additional Resources
+
+- [Awesome Docker](https://github.com/veggiemonk/awesome-docker0)
+- [Hello Docker Workshop](http://docker.atbaker.me/)
+- [Why Docker](https://blog.codeship.com/why-docker/)
+- Docker Weekly and [archives](https://blog.docker.com/docker-weekly-archives/)
+- [Codeship Blog](https://blog.codeship.com/)
