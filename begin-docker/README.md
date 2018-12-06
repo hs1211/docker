@@ -112,7 +112,7 @@ $ docker run -i -t --name network_ping_container --net mybridge ubuntu:14.04
 ```
 
 ## Cotainer Log
+
 - json-file
 - syslog
-
 
